@@ -1,0 +1,33 @@
+li {
+  border: 2px solid #b5b7c4;
+  border-radius: 7px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 80px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.app-deco {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.start-deco {
+  height: 25px;
+  width: 30px;
+}
+.title-deco {
+  margin-top: -3px;
+  color: #171f46;
+  font-size: 18px;
+  font-weight: bold;
+}
+.date-deco {
+  margin-top: -3px;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+}
